@@ -1,2 +1,2 @@
 ### Hi there 👋
-🔭 I’m at the crossroads between financial mathematics, telecommunications and datascience.
+🔭 I’m Louis. I am currently working at the crossroads between financial mathematics, telecommunications and datascience.
