@@ -1,7 +1,2 @@
 ### Hi there 👋
-
-- 🔭 I’m at the crossroads between telecommunications and datascience.
-- 🌱 I'm a tennis amateur and baby surfer.
-- 👯 Do not hesitate to reach me out for various projects.
-
-TODO : https://dataforgood.fr/blog
+🔭 I’m at the crossroads between financial mathematics, telecommunications and datascience.
